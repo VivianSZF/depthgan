@@ -5,9 +5,9 @@
 
 > **3D-Aware Indoor Scene Synthesis with Depth Priors** <br>
 > Zifan Shi, Yujun Shen, Jiapeng Zhu, Dit-Yan Yeung, Qifeng Chen <br>
-> *arXiv preprint arXiv:TODO*
+> *arXiv preprint arXiv:2202.08553*
 
-[[Paper](TODO)]
+[[Paper](https://arxiv.org/pdf/2202.08553.pdf)]
 [[Project Page](https://shizifan.github.io/DepthGAN)]
 [[Demo](https://youtu.be/RMmIso5Oxno)]
 
@@ -32,10 +32,10 @@ Diverse geometries via varying the depth latent code, rendered with the same app
 ## BibTeX
 
 ```bibtex
-@article{...,
+@article{shi20223daware,
   title   = {3D-Aware Indoor Scene Synthesis with Depth Priors},
   author  = {Shi, Zifan and Shen, Yujun and Zhu, Jiapeng and Yeung, Dit-Yan and Chen, Qifeng},
-  article = {TODO},
+  article = {arXiv preprint arXiv:2202.08553},
   year    = {2022}
 }
 ```
