@@ -35,7 +35,7 @@ Diverse geometries via varying the depth latent code, rendered with the same app
 @article{shi20223daware,
   title   = {3D-Aware Indoor Scene Synthesis with Depth Priors},
   author  = {Shi, Zifan and Shen, Yujun and Zhu, Jiapeng and Yeung, Dit-Yan and Chen, Qifeng},
-  article = {arXiv preprint arXiv:2202.08553},
+  journal = {arXiv preprint arXiv:2202.08553},
   year    = {2022}
 }
 ```
